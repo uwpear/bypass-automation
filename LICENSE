@@ -1,0 +1,27 @@
+
+Tabii ki, işte basit bir LICENSE dosyası örneği. Şifre deneme programları genellikle güvenlik testleri için kullanılır, ancak kötüye kullanım riski taşır, bu nedenle lisansınızı net bir şekilde belirlemek önemlidir. Aşağıdaki örnekte, yazılımınızı açık kaynak olarak paylaşmaya yönelik bir lisans seçeneği olan MIT Lisansı kullanılmıştır. İsterseniz bu örneği kendi ihtiyaçlarınıza göre değiştirebilirsiniz.
+
+LICENSE
+
+MIT Lisansı
+
+Copyright (c) 2024 uwpear
+
+Bu lisans, 2024 yılına ait olan "bypass-automation" adlı yazılımı kapsamaktadır.
+
+İzinler
+
+Bu yazılımın özgürce kullanılmasına, kopyalanmasına, değiştirilmesine, birleştirilmesine, dağıtılmasına, alt lisans verilmesine ve/veya satılmasına izin verilmektedir, aşağıdaki şartlara uyulmalıdır:
+
+Yazılımın Kopyalanması: Yazılımın kopyalanması ve/veya dağıtılması durumunda, bu lisansın ve telif hakkı bildirimlerinin tüm kopyalarda yer alması gerekmektedir.
+
+Değişiklikler: Yazılımda yapılan değişiklikler, yazılımın değiştirilmiş olduğunu belirtmelidir.
+
+Sorumluluk Reddi
+
+Bu yazılım, herhangi bir tür garanti veya koşul olmaksızın sağlanmaktadır. Herhangi bir açık veya zımni garanti, satılabilirlik, belirli bir amaca uygunluk veya ihlali içermeyen garantiler dahil olmak üzere, yazılımın kullanımı sonucunda ortaya çıkan herhangi bir zarardan sorumlu olunmamaktadır. Yazarlar ve telif hakkı sahipleri, bu yazılımın kullanımından kaynaklanan herhangi bir zarar, kayıp veya başka bir sorumluluktan sorumlu değildir.
+
+İletişim
+
+Herhangi bir soru, öneri veya geri bildirim için lütfen byates_41@protonmail.com ile iletişime geçin.
+
