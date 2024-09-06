@@ -2,12 +2,12 @@ TÜM HAKLARI UWPEAR'A AİTTİR.
 
 # 🔐 Login Bypass otomasyon
 
-Bu Python programı, bir web sitesine bypass kodlarını hızlıca denemek için kullanılır. `passwords.txt` dosyasındaki her şifre hem kullanıcı adı hem de şifre olarak kullanılacaktır. Bu şekilde, aynı değeri kullanıcı adı ve şifre alanlarına girerek doğru kombinasyonu bulmaya çalışır.
+Bu Python programı, bir web sitesine bypass kodlarını hızlıca denemek için kullanılır. `password.txt` dosyasındaki her şifre hem kullanıcı adı hem de şifre olarak kullanılacaktır. Bu şekilde, aynı değeri kullanıcı adı ve şifre alanlarına girerek doğru kombinasyonu bulmaya çalışır.
 
 ## 📋 Özellikler
 
 - Bir web formuna POST isteği gönderir.
-- `passwords.txt` dosyasındaki metinleri hem usarname hem de password olarak kullanır.
+- `password.txt` dosyasındaki metinleri hem usarname hem de password olarak kullanır.
 - Girişlerin doğru olup olmadığını belirlemek için terminalden Yanlış veya Doğru yazısını görürsünüz.
 - Başarılı giriş tespit edildiğinde doğru şifreyi konsola yazdırır.
 
@@ -47,7 +47,7 @@ Bu Python programı, bir web sitesine bypass kodlarını hızlıca denemek için
     Terminal veya komut istemcisinde, programın bulunduğu dizine gidin ve aşağıdaki komutu çalıştırın:
 
     ```bash
-    python password_tester.py
+    python3 main.py
     Gerekli Bilgileri Girin:
     ```
     Hedef Site: Giriş formunun URL'sini girin.
