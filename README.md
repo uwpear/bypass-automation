@@ -7,7 +7,7 @@ Bu Python programı, bir web sitesine bypass kodlarını hızlıca denemek için
 ## 📋 Özellikler
 
 - Bir web formuna POST isteği gönderir.
-- `password.txt` dosyasındaki metinleri hem usarname hem de password olarak kullanır.
+- `password.txt` dosyasındaki metinleri hem username hem de password olarak kullanır.
 - Girişlerin doğru olup olmadığını belirlemek için terminalden Yanlış veya Doğru yazısını görürsünüz.
 - Başarılı giriş tespit edildiğinde doğru şifreyi konsola yazdırır.
 
